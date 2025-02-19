@@ -19,3 +19,10 @@ Follow up prompt : answer
 
 # the html file has at least one error (from the dev console) and possibly some logic errors as the website seems nonfunctional 
 # i haven't had time to dig into it yet..
+
+
+# original results 
+cat_clone_original.html
+
+# I asked grok3 to fix any issues it found and it fixed a handful of things. Looks somewhat better 
+cat_clone_fixed.html
